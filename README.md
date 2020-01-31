@@ -10,6 +10,7 @@ Ensemble of Neural Tools for Animations Restoration
 1. [DeOldify](https://github.com/jantic/DeOldify)
 2. [DeepRemaster](https://github.com/satoshiiizuka/siggraphasia2019_remastering)
 3. [VFIASC](https://github.com/sniklaus/sepconv-slomo)
+
 **In addition, there are:**
 - [Fast-SRGAN](https://github.com/HasnainRaz/Fast-SRGAN)
 - [VFI-CFT](https://github.com/MortenHannemose/pytorch-vfi-cft)
