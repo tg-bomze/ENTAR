@@ -1,4 +1,4 @@
-# ENTAR v.1.0
+# ENTAR v.2.0
 Ensemble of Neural Tools for Animations Restoration
 ![ENTAR](entar.png)
 
@@ -10,6 +10,7 @@ Ensemble of Neural Tools for Animations Restoration
 1. [DeOldify](https://github.com/jantic/DeOldify)
 2. [DeepRemaster](https://github.com/satoshiiizuka/siggraphasia2019_remastering)
 3. [VFIASC](https://github.com/sniklaus/sepconv-slomo)
+4. [ESRGAN](https://github.com/xinntao/ESRGAN) (new)
 
 **In addition, there are:**
 - [Fast-SRGAN](https://github.com/HasnainRaz/Fast-SRGAN)
