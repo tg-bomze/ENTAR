@@ -18,10 +18,11 @@ Ensemble of Neural Tools for Animations Restoration
 - [VFI-CFT](https://github.com/MortenHannemose/pytorch-vfi-cft)
 - [3D Ken Burns](https://github.com/sniklaus/3d-ken-burns)
 
-**Updates**
-[2020-04-23] **v.3.0** Added frame enhancer (*EDVR*), bugs fixed. <br/>
-[2020-03-02] **v.2.0** Added resolution upscaler (*ESRGAN*), bugs fixed. <br/>
-[2020-01-31] **v.1.0** Release Colabs.
+**Updates:**
+
+[*2020-04-23*] **v.3.0** Added frame enhancer (*EDVR*), bugs fixed. <br/>
+[*2020-03-02*] **v.2.0** Added resolution upscaler (*ESRGAN*), bugs fixed. <br/>
+[*2020-01-31*] **v.1.0** Release Colabs.
 
 **Result Example:**
 
