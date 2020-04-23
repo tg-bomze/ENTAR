@@ -1,4 +1,4 @@
-# ENTAR v.2.0
+# ENTAR v.3.0
 Ensemble of Neural Tools for Animations Restoration
 ![ENTAR](entar.png)
 
@@ -8,11 +8,12 @@ Ensemble of Neural Tools for Animations Restoration
 
 **This ensemble includes:**
 1. [DeOldify](https://github.com/jantic/DeOldify)
-2. [DeepRemaster](https://github.com/satoshiiizuka/siggraphasia2019_remastering)
+2. [EDVR](https://github.com/xinntao/EDVR) (new)
 3. [VFIASC](https://github.com/sniklaus/sepconv-slomo)
 4. [ESRGAN](https://github.com/xinntao/ESRGAN) (new)
 
 **In addition, there are:**
+- [DeepRemaster](https://github.com/satoshiiizuka/siggraphasia2019_remastering)
 - [Fast-SRGAN](https://github.com/HasnainRaz/Fast-SRGAN)
 - [VFI-CFT](https://github.com/MortenHannemose/pytorch-vfi-cft)
 - [3D Ken Burns](https://github.com/sniklaus/3d-ken-burns)
