@@ -23,7 +23,7 @@ Ensemble of Neural Tools for Animations Restoration
 **Updates:**
 
 
-[*2020-05-08*] **v.4.0** Added audio synthesizer (*DDSP*) and stable photo colrizer (*DeOldify Stable*), EDVR bug fixed (thanks [bluzir](https://github.com/bluzir)), added manual cropping of input video (thanks tg:[@black_kodzu](https://t.me/black_kodzu)). <br/>
+[*2020-05-08*] **v.4.0** Added audio synthesizer (*DDSP*) and stable photo colorizer (*DeOldify Stable*), EDVR bug fixed (thanks [bluzir](https://github.com/bluzir)), added manual cropping of input video (thanks tg:[@black_kodzu](https://t.me/black_kodzu)). <br/>
 [*2020-04-23*] **v.3.0** Added frame enhancer (*EDVR*), bugs fixed, optimized file management. <br/>
 [*2020-03-02*] **v.2.0** Added resolution upscaler (*ESRGAN*), bugs fixed. <br/>
 [*2020-01-31*] **v.1.0** Release Colabs.
