@@ -8,9 +8,9 @@ Ensemble of Neural Tools for Animations Restoration
 
 **This ensemble includes:**
 1. [DeOldify](https://github.com/jantic/DeOldify)
-2. [EDVR](https://github.com/xinntao/EDVR) (new)
+2. [EDVR](https://github.com/xinntao/EDVR) (fixed)
 3. [VFIASC](https://github.com/sniklaus/sepconv-slomo)
-4. [ESRGAN](https://github.com/xinntao/ESRGAN) (new)
+4. [ESRGAN](https://github.com/xinntao/ESRGAN)
 
 **In addition, there are:**
 - [DeepRemaster](https://github.com/satoshiiizuka/siggraphasia2019_remastering)
