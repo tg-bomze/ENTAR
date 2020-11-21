@@ -4,11 +4,12 @@ Ensemble of Neural Tools for Animations Restoration
 
 **Check how it works on Google Colab:**
 - Russian Language [![Colab](https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/tg-bomze/ENTAR/blob/master/ENTAR_Rus.ipynb)
+- Russian Language (Fixed by Антон Паймышев from [@chistogipoteticheski](https://t.me/chistogipoteticheski)) [![Colab](https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/apaimyshev/restoration_colabs/blob/main/chistogipoteticheski_video.ipynb)
 - Bad English Translation [![Colab](https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/tg-bomze/ENTAR/blob/master/ENTAR_Eng.ipynb)
 
 **This ensemble includes:**
 1. [DeOldify](https://github.com/jantic/DeOldify)
-2. [EDVR](https://github.com/xinntao/EDVR) (fixed)
+2. [EDVR](https://github.com/xinntao/EDVR)
 3. [VFIASC](https://github.com/sniklaus/sepconv-slomo)
 4. [ESRGAN](https://github.com/xinntao/ESRGAN)
 
